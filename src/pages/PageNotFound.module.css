@@ -1,0 +1,27 @@
+.PageNotFound {
+  margin: 2.5rem;
+  padding: 2.5rem 5rem;
+  min-height: calc(100vh - 5rem);
+  background-color: #eef5ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #656669;
+  user-select: none;
+}
+
+.PageNotFound h1 {
+  font-size: 3.5rem;
+  margin-block: 15px;
+}
+
+.PageNotFound h2 {
+  font-size: 1.5rem;
+  margin: 10px;
+}
+
+.PageNotFound a {
+  text-decoration: none;
+  color: var(--color-brand--2);
+}

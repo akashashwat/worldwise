@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Barcelona",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "We had a lot of fun there. specially in roller coaster. 😃",
+      "position": {
+        "lat": 41.386199255064305,
+        "lng": 2.1676515036686244
+      },
+      "id": 17823651
+    },
+    {
+      "cityName": "Port Louis",
+      "country": "Mauritius",
+      "emoji": "🇲🇺",
+      "date": "2024-01-19T12:07:00.438Z",
+      "notes": "",
+      "position": {
+        "lat": "-20.166202750776154",
+        "lng": "57.499008178710945"
+      },
+      "id": 98856098
+    },
+    {
+      "cityName": "Jabalpur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-27T11:29:38.315Z",
+      "notes": "this is my hometown",
+      "position": {
+        "lat": "23.155763036306414",
+        "lng": "79.97497558593751"
+      },
+      "id": 98856099
+    }
+  ]
+}
